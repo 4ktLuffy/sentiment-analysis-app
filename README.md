@@ -214,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: @4ktLuffy
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: https://www.linkedin.com/in/henos-dereje-221aa2215/
 - Email: henosd19@gmail.com
 
 ## 🙏 Acknowledgments
