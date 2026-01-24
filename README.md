@@ -163,27 +163,6 @@ python -c "from transformers import pipeline; print('Setup successful!')"
 | Inference Speed | ~50ms per text |
 | Model Size | 255MB |
 
-## 🚀 Deployment
-
-### Deploy to Streamlit Cloud (Free)
-
-1. Push your code to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repository
-4. Click "Deploy"
-5. Share your live app URL!
-
-### Deploy to Hugging Face Spaces
-
-1. Create account on [huggingface.co](https://huggingface.co)
-2. Create new Space with Streamlit SDK
-3. Upload your files
-4. Your app is live!
-
-### Other Deployment Options
-- **Heroku**: Platform-as-a-Service
-- **AWS/GCP/Azure**: Cloud platforms
-- **Railway**: Easy deployment platform
 
 ## 🎓 Learning Resources
 
@@ -234,9 +213,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: @4ktLuffy
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- Email: henosd19@gmail.com
 
 ## 🙏 Acknowledgments
 
