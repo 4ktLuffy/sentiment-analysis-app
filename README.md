@@ -208,9 +208,7 @@ Contributions are welcome! Feel free to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
 
-**Your Name**
 - GitHub: @4ktLuffy
 - LinkedIn: https://www.linkedin.com/in/henos-dereje-221aa2215/
 - Email: henosd19@gmail.com
@@ -222,16 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Stanford NLP](https://nlp.stanford.edu/) for the SST-2 dataset
 - The open-source community
 
-## 📸 Screenshots
 
-### Main Interface
-![Main Interface](screenshots/main.png)
-
-### Batch Analysis
-![Batch Analysis](screenshots/batch.png)
-
-### History View
-![History](screenshots/history.png)
 
 ---
 
