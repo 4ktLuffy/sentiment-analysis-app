@@ -16,9 +16,7 @@ A production-ready web application for real-time sentiment analysis using state-
 - **Confidence Scoring**: See how confident the AI is about each prediction
 - **Responsive UI**: Clean, modern interface that works on all devices
 
-## 🚀 Live Demo
 
-[Add your deployed app link here after deployment]
 
 ## 🧠 How It Works
 
